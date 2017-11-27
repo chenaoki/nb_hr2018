@@ -1,3 +1,3 @@
-# nb_template
+# nb_hr2018
 
-template repository for jupyter notebook pages.
+Heart Rhythm 2018
